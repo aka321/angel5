@@ -11,15 +11,7 @@ class PagesSeeder extends Seeder
 		Page::create([
 			'slug'  => 'home',
 			'title' => 'Home',
-			'html'  => '
-<section>
-	<div class="row">
-		<div class="column small-12">
-			<p>This text is rendered from the database.</p>
-		</div>
-	</div>
-</section>
-			',
+			'html'  => '<p>This text is rendered from the database.</p>',
 		]);
 		Page::create([
 			'slug'  => 'sign-in',

@@ -24,7 +24,11 @@
 				<p>This text is rendered from the blade.</p>
 			</div>
 		</div>
+		<div class="row">
+			<div class="column small-12">
+				{!! $page->html !!}
+			</div>
+		</div>
 	</section>
-	{!! $page->html !!}
 </div>
 @endsection
