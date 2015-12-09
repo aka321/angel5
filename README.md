@@ -24,3 +24,8 @@ php artisan db:reset        # To run all migrations and seeds.
 ```
 
 **Note:**  If your MySQL version does not support FULLTEXT indexes for super-fast searching, you'll need to edit the migrations in `database/migrations/*.php` and comment out the FULLTEXT index queries for now.  (MySQL must be >= 5.6 for this I believe.)
+
+License
+-------
+
+Just like the Laravel framework, Angel is open-source software licensed under the [MIT license](http://opensource.org/licenses/MIT).
