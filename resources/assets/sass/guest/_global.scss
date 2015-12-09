@@ -1,0 +1,32 @@
+#guestTemplate {
+	body {
+		// Check out _settings.scss before doing font stuffs here!  :)  <3
+	}
+
+	section {
+		overflow:auto;
+	}
+
+	#header {
+		position:fixed;
+		top:0px; left:0px;
+		width:100%;
+		z-index:3;
+		height:80px;
+		background: #FFF;
+		padding-top:20px;
+
+		img.topLogo {
+			height:45px;
+		}
+	}
+
+	#guestContent {
+		margin-top:80px;
+	}
+
+	#footer {
+		min-height:200px;
+		text-align:center;
+	}
+}

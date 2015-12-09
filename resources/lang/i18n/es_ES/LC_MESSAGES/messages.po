@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultilanguageLaravelApplication\n"
+"POT-Creation-Date: 2015-09-21 14:21-0800\n"
+"PO-Revision-Date: 2015-09-21 14:23-0800\n"
+"Last-Translator: Jacob Martin <mindnumb@gmail.com>\n"
+"Language-Team: Miguel Translator <miguel@translations.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../resources/views\n"
+"X-Poedit-SearchPath-1: ../storage/framework/messages/\n"
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:37
+msgid "California's Education System is Changing Fast."
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:41
+msgid ""
+"Learn how it really works, so you can make a difference.\n"
+"\t\t\t\t\t\t\tIt's free... and you could win $1,000 for your school's PTA!"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:47
+#: ../storage/framework/messages//9bbbcd2f0da41d89a307eb8e9285957b.php:30
+msgid "START LEARNING"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:51
+msgid "WATCH VIDEO"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:66
+msgid "Plainly Worded Lessons"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:67
+msgid "Explore the education system in easy to understand language."
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:71
+msgid "Help Your School"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:72
+msgid "Build a team of parent leaders for your school and district."
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:76
+msgid "On-The-Go Learning"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:77
+msgid "Works on your computer, tablet, or mobile device."
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:81
+msgid "Track Your Progress"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:82
+msgid "See your progress as you complete each lesson."
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:91
+msgid "Our champions"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:97
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:125
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:153
+msgid ""
+"&quot;Ed100 helps connect the dots among the many forces of change\n"
+"\t\t\t\t\t\t\t\t\tpushing and pulling education change - and shows why Full "
+"Circle Fund\n"
+"\t\t\t\t\t\t\t\t\thas rapidly become one of the Bay Area's most influential "
+"non-profit\n"
+"\t\t\t\t\t\t\t\t\torganizations.&quot;"
+msgstr ""
+
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:112
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:140
+#: ../storage/framework/messages//ebfc53ae0fc60c40a422f274722457c4.php:168
+msgid ""
+"U.S. Under Secretary of Education former President, California\n"
+"\t\t\t\t\t\t\t\t\t\t\tState Board of Education former CEO, NewSchools "
+"Venture Fund"
+msgstr ""
+
+#: ../storage/framework/messages//589d31bd1f2d93467a6f35dd8dac2656.php:11
+msgid "Name"
+msgstr ""
+
+#: ../storage/framework/messages//589d31bd1f2d93467a6f35dd8dac2656.php:18
+msgid "Email"
+msgstr ""
+
+#: ../storage/framework/messages//589d31bd1f2d93467a6f35dd8dac2656.php:25
+msgid "Password"
+msgstr ""
+
+#: ../storage/framework/messages//589d31bd1f2d93467a6f35dd8dac2656.php:32
+msgid "Confirm Password"
+msgstr ""
+
+#: ../storage/framework/messages//fa26ac8915ccf613f2bfce435299995f.php:9
+msgid "by modern interface"
+msgstr ""
+
+#: ../storage/framework/messages//fa26ac8915ccf613f2bfce435299995f.php:17
+msgid "About"
+msgstr ""
+
+#: ../storage/framework/messages//fa26ac8915ccf613f2bfce435299995f.php:22
+msgid "Blog"
+msgstr ""
+
+#: ../storage/framework/messages//fa26ac8915ccf613f2bfce435299995f.php:27
+msgid "About Circle Fund"
+msgstr ""
+
+#: ../storage/framework/messages//fa26ac8915ccf613f2bfce435299995f.php:32
+msgid "Rules"
+msgstr ""
+
+#: ../storage/framework/messages//fa26ac8915ccf613f2bfce435299995f.php:37
+msgid "Terms"
+msgstr ""
+
+#: ../storage/framework/messages//fa26ac8915ccf613f2bfce435299995f.php:42
+msgid "Privacy"
+msgstr ""
+
+#: ../storage/framework/messages//fa26ac8915ccf613f2bfce435299995f.php:47
+msgid "Contact"
+msgstr ""
+
+#: ../storage/framework/messages//9bbbcd2f0da41d89a307eb8e9285957b.php:8
+msgid ""
+"California's Education System<br />\n"
+"\t\t\t\t\t100% Demystified"
+msgstr ""
+
+#: ../storage/framework/messages//9bbbcd2f0da41d89a307eb8e9285957b.php:21
+msgid "REGISTER"
+msgstr ""
+
+#: ../storage/framework/messages//9bbbcd2f0da41d89a307eb8e9285957b.php:26
+#: ../storage/framework/messages//bef09915c6173ee96543e346bfeccae3.php:58
+msgid "SIGN IN"
+msgstr ""
+
+#: ../storage/framework/messages//9bbbcd2f0da41d89a307eb8e9285957b.php:34
+msgid "BLOG"
+msgstr "BLOG"
+
+#: ../storage/framework/messages//9bbbcd2f0da41d89a307eb8e9285957b.php:38
+msgid "ABOUT"
+msgstr "ACERCA DE"
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:7
+msgid "education"
+msgstr "educación"
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:13
+msgid "students"
+msgstr "estudiantes"
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:19
+msgid "teachers"
+msgstr "maestros"
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:25
+msgid "time"
+msgstr ""
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:31
+msgid "places"
+msgstr ""
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:37
+msgid "the right stuff"
+msgstr ""
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:43
+msgid "the system"
+msgstr ""
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:49
+msgid "resources"
+msgstr ""
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:55
+msgid "success"
+msgstr ""
+
+#: ../storage/framework/messages//5290900c15fc9602622254b1373d5166.php:61
+msgid "now what?"
+msgstr ""
+
+#: ../storage/framework/messages//bef09915c6173ee96543e346bfeccae3.php:12
+msgid "Sign into Ed100"
+msgstr ""
+
+#: ../storage/framework/messages//bef09915c6173ee96543e346bfeccae3.php:16
+msgid "Not a member of Ed100?"
+msgstr ""
+
+#: ../storage/framework/messages//bef09915c6173ee96543e346bfeccae3.php:19
+msgid "Join now."
+msgstr ""
+
+#: ../storage/framework/messages//bef09915c6173ee96543e346bfeccae3.php:43
+msgid "email address"
+msgstr ""
+
+#: ../storage/framework/messages//bef09915c6173ee96543e346bfeccae3.php:46
+msgid "password"
+msgstr ""
+
+#: ../storage/framework/messages//bef09915c6173ee96543e346bfeccae3.php:51
+msgid "Remember Me"
+msgstr ""
+
+#: ../storage/framework/messages//bef09915c6173ee96543e346bfeccae3.php:64
+msgid "forgot username or password?"
+msgstr ""
+
+#~ msgid "RULES"
+#~ msgstr "REGLAS"

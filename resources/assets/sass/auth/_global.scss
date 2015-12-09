@@ -1,0 +1,26 @@
+#authTemplate {
+	body {
+		// Check out _settings.scss before doing font stuffs here!  :)  <3
+	}
+
+	section {
+		overflow:auto;
+	}
+
+	#header {
+		.topLogo {
+			height:40px;
+			float:left;
+		}
+		.langSwitchWrap {
+			margin-top:15px;
+
+			.signOut {
+				margin-left:15px;
+			}
+		}
+	}
+
+	#footer {
+	}
+}

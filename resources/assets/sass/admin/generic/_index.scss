@@ -1,0 +1,16 @@
+#genericIndex {
+	table {
+		width:100%;
+
+		.editButton {
+			display:inline-block;
+			margin:auto;
+			border-radius:3px;
+		}
+	}
+
+	#createNewButton {
+		float:right;
+		margin-top:4px;
+	}
+}

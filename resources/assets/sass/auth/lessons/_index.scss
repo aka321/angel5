@@ -1,0 +1,28 @@
+#lessonsIndex {
+	.chapterTabs {
+		background-color:$orange;
+
+		.tab-title {
+			&.active {
+				a {
+					color:$white;
+				}
+			}
+			a {
+				background-color:inherit;
+
+				&:hover {
+					background-color:scale-color($orange, $lightness: -20%);
+				}
+			}
+		}
+	}
+	.bottomWrap {
+		overflow:auto;
+		background:#FFF;
+
+		.progressTabs {
+			margin-top:15px;
+		}
+	}
+}
