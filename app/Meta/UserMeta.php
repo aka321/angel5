@@ -89,55 +89,6 @@ class UserMeta extends AdminMeta
 					'unique:users,nickname',
 				],
 			],
-			'url' => [
-				'pretty' => 'URL',
-				'type'   => 'text',
-				'attributes' => [],
-			],
-			'role' => [
-				'pretty' => 'Role',
-				'type'   => 'select',
-				'options' => [
-					''                 => '',
-					'Administrator'    => 'Administrator',
-					'Community Member' => 'Community Member',
-					'Other'            => 'Other',
-					'Parent/Guardian'  => 'Parent/Guardian',
-					'School Board'     => 'School Board',
-					'Staff'            => 'Staff',
-					'Student'          => 'Student',
-					'Teacher'          => 'Teacher',
-				],
-				'attributes' => [],
-			],
-			'state_id' => [
-				'pretty' => 'State ID',
-				'type'   => 'text',
-				'attributes' => [
-					'disabled',
-				],
-			],
-			'county_id' => [
-				'pretty' => 'County ID',
-				'type'   => 'text',
-				'attributes' => [
-					'disabled',
-				],
-			],
-			'district_id' => [
-				'pretty' => 'District ID',
-				'type'   => 'text',
-				'attributes' => [
-					'disabled',
-				],
-			],
-			'pta_district_id' => [
-				'pretty' => 'PTA District ID',
-				'type'   => 'text',
-				'attributes' => [
-					'disabled',
-				],
-			],
 			'updated_at' => [
 				'pretty'     => 'Updated At',
 				'type'       => 'text',
