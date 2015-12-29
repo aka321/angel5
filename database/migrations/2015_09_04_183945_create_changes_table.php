@@ -19,7 +19,7 @@ class CreateChangesTable extends Migration
 		    $table->string('column');
 		    $table->text('content');
 		    $table->integer('user_id')->unsigned();
-		    $table->timestamp('created_at');
+		    $table->timestamp('created_at')->useCurrent();
 
 		    // Do not cascade deletes here; however, they will need to be handled in some way.
 		    $table->foreign('user_id')
