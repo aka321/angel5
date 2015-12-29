@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Auth;
 
 use Illuminate\Http\Request;
+use Illuminate\Mail\Message;
 use Illuminate\Support\Facades\Password;
 use App\Http\Controllers\FrontEndController;
 use Illuminate\Foundation\Auth\ResetsPasswords;
@@ -30,6 +31,7 @@ class PasswordController extends FrontEndController
 	 */
 	public function __construct()
 	{
+		parent::__construct();
 		$this->middleware('guest');
 	}
 
