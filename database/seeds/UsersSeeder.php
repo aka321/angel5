@@ -10,7 +10,7 @@ class UsersSeeder extends Seeder
 		// Create test / developer accounts:
 		User::create([
 			'type'       => 'admin',
-			'email'      => 'admin@admin',
+			'email'      => 'admin@admin.com',
 			'first_name' => 'Admin',
 			'last_name'  => 'Istrator',
 			'nickname'   => 'admin',
@@ -18,7 +18,7 @@ class UsersSeeder extends Seeder
 		]);
 		User::create([
 			'type'       => 'user',
-			'email'      => 'user@user',
+			'email'      => 'user@user.com',
 			'first_name' => 'User',
 			'last_name'  => 'Guy',
 			'nickname'   => 'user',
