@@ -43,7 +43,7 @@
 						</button>
 					</div>
 					<div class="small-12 medium-6 column text-left">
-						<a href="#">
+						<a href="/password/email">
 							forgot username or password?
 						</a>
 					</div>
